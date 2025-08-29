@@ -24,3 +24,8 @@ export const MENU_ARRAY = [
     link: 'admin',
   },
 ];
+
+export const COOKIES_VALUE = {
+  usual: 'usual',
+  super: 'super',
+};
