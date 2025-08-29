@@ -1,9 +1,9 @@
 const LinkButton = () => {  
   return(
-    <>
-        <h1>LinkButton</h1>
-        <p>Page routing LinkButton</p>
-    </>
+    <section className="pageWrapper">
+      <h1>LinkButton</h1>
+      <p>Page routing LinkButton</p>
+    </section>
   )
 };
 
